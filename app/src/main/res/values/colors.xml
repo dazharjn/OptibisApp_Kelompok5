@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="gradient_start">#7B2FF7</color>
+    <color name="gradient_end">#F72585</color>
+    <color name="purple_deep">#4A00B8</color>
+    <color name="text_dark">#1A1A2E</color>
+    <color name="text_muted">#6B7280</color>
+    <color name="surface_white">#FFFFFF</color>
+    <color name="icon_bg_purple">#F0E6FF</color>
+    <color name="icon_bg_pink">#FFE6F3</color>
+    <color name="icon_bg_blue">#E6F0FF</color>
+    <color name="border_light">#E9DFFF</color>
+</resources>

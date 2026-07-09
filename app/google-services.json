@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "562058993314",
+    "project_id": "optibis-id-76e73",
+    "storage_bucket": "optibis-id-76e73.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:562058993314:android:7342cd711d4241e628c1fb",
+        "android_client_info": {
+          "package_name": "id.optibis.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnWMJuav6LZza5FZWY-HzxR5maypRS6kA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
